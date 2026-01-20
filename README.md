@@ -33,6 +33,7 @@ Each dataset was originally provided in **multiple CSV parts** and consolidated 
 
 ## Project Structure
 
+```text
 uidai-data-hackathon/
 │
 ├── README.md
@@ -84,7 +85,7 @@ uidai-data-hackathon/
 └── 07_Final_Submission/
     ├── uidai_data_hackathon_submission.pdf
     └── presentation_slides.pptx
-
+```
 
 ---
 
