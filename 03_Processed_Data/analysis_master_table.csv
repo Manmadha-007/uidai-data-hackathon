@@ -687,8 +687,7 @@ date,state,total_enrollment,total_demographic_updates,total_biometric_updates
 2025-09-13,Telangana,1430,9283,7399
 2025-09-13,Tripura,27,296,115
 2025-09-13,Uttar Pradesh,10778,56201,49416
-2025-09-13,Uttarakhand,371,2418,2590
-2025-09-13,Uttaranchal,0,0,1
+2025-09-13,Uttarakhand,371,2418,2591
 2025-09-13,West Bengal,4196,37534,8638
 2025-09-14,Andaman And Nicobar Islands,0,4,0
 2025-09-14,Andhra Pradesh,152,1515,710
@@ -768,8 +767,7 @@ date,state,total_enrollment,total_demographic_updates,total_biometric_updates
 2025-09-16,Assam,1892,9461,5368
 2025-09-16,Bihar,5089,52895,20318
 2025-09-16,Chandigarh,40,294,268
-2025-09-16,Chhatisgarh,0,0,1
-2025-09-16,Chhattisgarh,1310,13909,13189
+2025-09-16,Chhattisgarh,1310,13909,13190
 2025-09-16,Dadra And Nagar Haveli And Daman And Diu,19,250,531
 2025-09-16,Delhi,837,5814,6143
 2025-09-16,Goa,42,520,270
@@ -1317,8 +1315,7 @@ date,state,total_enrollment,total_demographic_updates,total_biometric_updates
 2025-10-15,Assam,2024,15559,4069
 2025-10-15,Bihar,8981,87815,17361
 2025-10-15,Chandigarh,30,503,59
-2025-10-15,Chhatisgarh,0,2,0
-2025-10-15,Chhattisgarh,1121,14423,8019
+2025-10-15,Chhattisgarh,1121,14425,8019
 2025-10-15,Dadra And Nagar Haveli And Daman And Diu,21,145,137
 2025-10-15,Delhi,657,6131,1842
 2025-10-15,Goa,38,407,146
@@ -2138,8 +2135,7 @@ date,state,total_enrollment,total_demographic_updates,total_biometric_updates
 2025-11-06,Tripura,101,1531,1413
 2025-11-06,Uttar Pradesh,7817,86531,81416
 2025-11-06,Uttarakhand,322,3680,6460
-2025-11-06,West Bengal,3865,77385,12137
-2025-11-06,West Bengli,0,1,0
+2025-11-06,West Bengal,3865,77386,12137
 2025-11-07,Andaman And Nicobar Islands,4,95,62
 2025-11-07,Andhra Pradesh,1452,20502,22476
 2025-11-07,Arunachal Pradesh,47,307,1175
@@ -2326,8 +2322,7 @@ date,state,total_enrollment,total_demographic_updates,total_biometric_updates
 2025-11-12,Assam,1672,4754,5023
 2025-11-12,Bihar,4419,25018,14159
 2025-11-12,Chandigarh,16,207,160
-2025-11-12,Chhatisgarh,0,0,1
-2025-11-12,Chhattisgarh,784,11058,12930
+2025-11-12,Chhattisgarh,784,11058,12931
 2025-11-12,Dadra And Nagar Haveli And Daman And Diu,15,158,229
 2025-11-12,Delhi,586,4088,4136
 2025-11-12,Goa,29,328,603
@@ -2615,8 +2610,7 @@ date,state,total_enrollment,total_demographic_updates,total_biometric_updates
 2025-11-25,Assam,1333,1909,17221
 2025-11-25,Bihar,5005,5933,35749
 2025-11-25,Chandigarh,57,217,443
-2025-11-25,Chhatisgarh,0,0,1
-2025-11-25,Chhattisgarh,1767,4454,29477
+2025-11-25,Chhattisgarh,1767,4454,29478
 2025-11-25,Dadra And Nagar Haveli And Daman And Diu,16,29,254
 2025-11-25,Delhi,675,2047,7286
 2025-11-25,Goa,45,181,971
@@ -2861,8 +2855,7 @@ date,state,total_enrollment,total_demographic_updates,total_biometric_updates
 2025-12-02,Tripura,0,1626,1908
 2025-12-02,Uttar Pradesh,0,77086,77138
 2025-12-02,Uttarakhand,0,4817,15875
-2025-12-02,West Bengal,0,49208,19370
-2025-12-02,West Bengli,0,2,0
+2025-12-02,West Bengal,0,49210,19370
 2025-12-03,Andaman And Nicobar Islands,0,160,117
 2025-12-03,Andhra Pradesh,0,24038,13916
 2025-12-03,Arunachal Pradesh,0,211,724
@@ -2905,8 +2898,7 @@ date,state,total_enrollment,total_demographic_updates,total_biometric_updates
 2025-12-04,Assam,0,13482,7538
 2025-12-04,Bihar,0,55692,34989
 2025-12-04,Chandigarh,0,437,305
-2025-12-04,Chhatisgarh,0,2,0
-2025-12-04,Chhattisgarh,0,25496,25844
+2025-12-04,Chhattisgarh,0,25498,25844
 2025-12-04,Dadra And Nagar Haveli And Daman And Diu,0,186,205
 2025-12-04,Delhi,0,7846,4882
 2025-12-04,Goa,0,530,311
@@ -2970,8 +2962,7 @@ date,state,total_enrollment,total_demographic_updates,total_biometric_updates
 2025-12-05,Telangana,0,15468,8276
 2025-12-05,Tripura,0,1681,1204
 2025-12-05,Uttar Pradesh,0,60375,32262
-2025-12-05,Uttarakhand,0,2541,6349
-2025-12-05,Uttaranchal,0,0,1
+2025-12-05,Uttarakhand,0,2541,6350
 2025-12-05,West Bengal,0,24762,12292
 2025-12-06,Andaman And Nicobar Islands,0,25,106
 2025-12-06,Andhra Pradesh,0,10760,20574
@@ -3051,8 +3042,7 @@ date,state,total_enrollment,total_demographic_updates,total_biometric_updates
 2025-12-08,Assam,0,16867,6754
 2025-12-08,Bihar,0,69451,22712
 2025-12-08,Chandigarh,0,670,206
-2025-12-08,Chhatisgarh,0,0,1
-2025-12-08,Chhattisgarh,0,33504,20863
+2025-12-08,Chhattisgarh,0,33504,20864
 2025-12-08,Dadra And Nagar Haveli And Daman And Diu,0,179,185
 2025-12-08,Delhi,0,10047,5670
 2025-12-08,Goa,0,684,434
@@ -3160,8 +3150,7 @@ date,state,total_enrollment,total_demographic_updates,total_biometric_updates
 2025-12-11,Assam,0,10451,6935
 2025-12-11,Bihar,0,43007,29067
 2025-12-11,Chandigarh,0,554,209
-2025-12-11,Chhatisgarh,0,0,1
-2025-12-11,Chhattisgarh,0,15508,26314
+2025-12-11,Chhattisgarh,0,15508,26315
 2025-12-11,Dadra And Nagar Haveli And Daman And Diu,0,86,219
 2025-12-11,Delhi,0,6894,5203
 2025-12-11,Goa,0,470,372
@@ -3231,7 +3220,6 @@ date,state,total_enrollment,total_demographic_updates,total_biometric_updates
 2025-12-13,Andhra Pradesh,0,15588,14002
 2025-12-13,Arunachal Pradesh,0,152,126
 2025-12-13,Assam,0,10467,5552
-2025-12-13,Balanagar,0,2,0
 2025-12-13,Bihar,0,45133,45883
 2025-12-13,Chandigarh,0,431,255
 2025-12-13,Chhattisgarh,0,19459,43647
@@ -3259,7 +3247,7 @@ date,state,total_enrollment,total_demographic_updates,total_biometric_updates
 2025-12-13,Rajasthan,0,7575,32142
 2025-12-13,Sikkim,0,43,49
 2025-12-13,Tamil Nadu,0,9865,28450
-2025-12-13,Telangana,0,4846,7298
+2025-12-13,Telangana,0,4848,7298
 2025-12-13,Tripura,0,254,450
 2025-12-13,Uttar Pradesh,0,45959,54251
 2025-12-13,Uttarakhand,0,1431,10794
@@ -3340,11 +3328,10 @@ date,state,total_enrollment,total_demographic_updates,total_biometric_updates
 2025-12-16,Andhra Pradesh,0,16090,18978
 2025-12-16,Arunachal Pradesh,0,207,244
 2025-12-16,Assam,0,7747,9401
-2025-12-16,Bihar,0,51076,34659
+2025-12-16,Bihar,0,51078,34659
 2025-12-16,Chandigarh,0,334,271
 2025-12-16,Chhattisgarh,0,24027,33278
 2025-12-16,Dadra And Nagar Haveli And Daman And Diu,0,187,218
-2025-12-16,Darbhanga,0,2,0
 2025-12-16,Delhi,0,5729,6668
 2025-12-16,Goa,0,352,505
 2025-12-16,Gujarat,0,22023,19783
@@ -3424,7 +3411,7 @@ date,state,total_enrollment,total_demographic_updates,total_biometric_updates
 2025-12-19,Himachal Pradesh,0,1490,2489
 2025-12-19,Jammu And Kashmir,0,3177,7525
 2025-12-19,Jharkhand,0,9626,12661
-2025-12-19,Karnataka,0,10889,14775
+2025-12-19,Karnataka,0,10890,14775
 2025-12-19,Kerala,0,9300,7833
 2025-12-19,Ladakh,0,72,24
 2025-12-19,Lakshadweep,0,14,15
@@ -3437,15 +3424,13 @@ date,state,total_enrollment,total_demographic_updates,total_biometric_updates
 2025-12-19,Odisha,0,5617,11169
 2025-12-19,Puducherry,0,237,550
 2025-12-19,Punjab,0,5669,10016
-2025-12-19,Puttenahalli,0,1,0
 2025-12-19,Rajasthan,0,25223,31523
 2025-12-19,Sikkim,0,74,15
 2025-12-19,Tamil Nadu,0,20893,37918
 2025-12-19,Telangana,0,14150,12597
 2025-12-19,Tripura,0,2001,1729
 2025-12-19,Uttar Pradesh,0,64102,62806
-2025-12-19,Uttarakhand,0,2616,9636
-2025-12-19,Uttaranchal,0,1,0
+2025-12-19,Uttarakhand,0,2617,9636
 2025-12-19,West Bengal,0,23036,15388
 2025-12-20,Andaman And Nicobar Islands,0,82,32
 2025-12-20,Andhra Pradesh,0,13219,14564
@@ -3481,8 +3466,7 @@ date,state,total_enrollment,total_demographic_updates,total_biometric_updates
 2025-12-20,Telangana,0,8036,6187
 2025-12-20,Tripura,0,1221,445
 2025-12-20,Uttar Pradesh,0,50341,17593
-2025-12-20,Uttarakhand,0,2243,2905
-2025-12-20,Uttaranchal,0,2,0
+2025-12-20,Uttarakhand,0,2245,2905
 2025-12-20,West Bengal,0,20093,5311
 2025-12-21,Andaman And Nicobar Islands,4,74,0
 2025-12-21,Andhra Pradesh,1002,6708,0
@@ -3540,12 +3524,11 @@ date,state,total_enrollment,total_demographic_updates,total_biometric_updates
 2025-12-22,Ladakh,10,42,0
 2025-12-22,Lakshadweep,5,2,0
 2025-12-22,Madhya Pradesh,14226,8654,1
-2025-12-22,Maharashtra,11049,21592,2
+2025-12-22,Maharashtra,11049,21593,2
 2025-12-22,Manipur,146,1474,0
 2025-12-22,Meghalaya,42,105,0
 2025-12-22,Mizoram,20,111,0
 2025-12-22,Nagaland,13,100,0
-2025-12-22,Nagpur,0,1,0
 2025-12-22,Odisha,3331,6254,0
 2025-12-22,Puducherry,24,222,0
 2025-12-22,Punjab,1518,2217,0
@@ -3555,8 +3538,7 @@ date,state,total_enrollment,total_demographic_updates,total_biometric_updates
 2025-12-22,Telangana,3212,8563,0
 2025-12-22,Tripura,410,1253,1
 2025-12-22,Uttar Pradesh,14345,67005,13
-2025-12-22,Uttarakhand,1292,2592,2
-2025-12-22,Uttaranchal,0,2,0
+2025-12-22,Uttarakhand,1292,2594,2
 2025-12-22,West Bengal,6603,27906,0
 2025-12-23,Andaman And Nicobar Islands,13,56,0
 2025-12-23,Andhra Pradesh,1997,20241,23
@@ -3679,7 +3661,6 @@ date,state,total_enrollment,total_demographic_updates,total_biometric_updates
 2025-12-26,Gujarat,1605,20034,21308
 2025-12-26,Haryana,1060,9185,11097
 2025-12-26,Himachal Pradesh,225,1864,2509
-2025-12-26,Jaipur,0,2,0
 2025-12-26,Jammu And Kashmir,775,5346,7196
 2025-12-26,Jharkhand,2111,9722,9972
 2025-12-26,Karnataka,3424,12954,21031
@@ -3695,17 +3676,16 @@ date,state,total_enrollment,total_demographic_updates,total_biometric_updates
 2025-12-26,Odisha,1073,12012,11936
 2025-12-26,Puducherry,28,422,441
 2025-12-26,Punjab,510,6682,8237
-2025-12-26,Raja Annamalai Puram,0,1,0
-2025-12-26,Rajasthan,3432,26472,40798
+2025-12-26,Rajasthan,3432,26474,40798
 2025-12-26,Sikkim,9,31,14
-2025-12-26,Tamil Nadu,1361,25306,30184
+2025-12-26,Tamil Nadu,1361,25307,30184
 2025-12-26,Telangana,748,9540,7493
 2025-12-26,Tripura,156,1846,951
 2025-12-26,Uttar Pradesh,9933,73290,49053
 2025-12-26,Uttarakhand,473,5222,9345
 2025-12-26,West Bengal,3576,32596,13152
 2025-12-27,Andaman And Nicobar Islands,19,46,73
-2025-12-27,Andhra Pradesh,1812,17182,17640
+2025-12-27,Andhra Pradesh,1812,17184,17640
 2025-12-27,Arunachal Pradesh,66,155,127
 2025-12-27,Assam,2161,8562,7483
 2025-12-27,Bihar,10394,42399,30100
@@ -3723,7 +3703,6 @@ date,state,total_enrollment,total_demographic_updates,total_biometric_updates
 2025-12-27,Kerala,659,10589,13071
 2025-12-27,Ladakh,14,25,28
 2025-12-27,Lakshadweep,0,23,18
-2025-12-27,Madanapalle,0,2,0
 2025-12-27,Madhya Pradesh,7073,19321,33591
 2025-12-27,Maharashtra,2181,56277,55225
 2025-12-27,Manipur,111,2539,1070
@@ -3735,8 +3714,7 @@ date,state,total_enrollment,total_demographic_updates,total_biometric_updates
 2025-12-27,Punjab,318,6199,4291
 2025-12-27,Rajasthan,2668,22954,23558
 2025-12-27,Sikkim,1,18,8
-2025-12-27,Tamil Nadu,1588,25000,35925
-2025-12-27,Tamilnadu,0,0,1
+2025-12-27,Tamil Nadu,1588,25000,35926
 2025-12-27,Telangana,530,15649,13685
 2025-12-27,Tripura,70,1257,509
 2025-12-27,Uttar Pradesh,6982,85788,53728
