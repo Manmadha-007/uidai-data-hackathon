@@ -1,0 +1,13 @@
+# Ignore raw UIDAI data (never commit)
+01_Raw_Data_National/
+
+# Jupyter notebook auto-generated files
+.ipynb_checkpoints/
+
+# Python runtime artifacts
+__pycache__/
+*.pyc
+
+# Operating system files
+.DS_Store
+Thumbs.db
